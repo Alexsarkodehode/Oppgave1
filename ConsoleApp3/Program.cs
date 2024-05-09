@@ -4,10 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello, World!");
-            ConsoleApp3.ReadLine();
+            Console.WriteLine("Hello, World!");
 
             
+
+
+
         }
     }
 }
+
