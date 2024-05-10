@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
 
-           
+            int i; i = 0; Console.WriteLine(i);
 
             
             
